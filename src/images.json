@@ -341,7 +341,7 @@
       "offSeasonRate": 4750,
       "balcony": "no",
       "ac": "Yes",
-      "amenities": ["Round bed"]
+      "amenities": ["Round bed", " Glass view"]
     },
     {
       "id": 20,
@@ -357,7 +357,7 @@
       "offSeasonRate": 4750,
       "balcony": "no",
       "ac": "Yes",
-      "amenities": ["Queen-size bed"]
+      "amenities": ["Queen-size bed", " Glass view"]
     },
     {
       "id": 21,
@@ -373,7 +373,7 @@
       "offSeasonRate": 4750,
       "balcony": "Yes",
       "ac": "no",
-      "amenities": ["Queen-size bed"]
+      "amenities": ["Queen-size bed", "Small Balcony"]
     },
     {
       "id": 22,
@@ -390,7 +390,7 @@
       "offSeasonRate": 4750,
       "balcony": "Yes",
       "ac": "no",
-      "amenities": ["Queen-size bed"]
+      "amenities": ["Queen-size bed", "Small Balcony"]
     },
     {
       "id": 23,
@@ -407,7 +407,7 @@
       "offSeasonRate": 4750,
       "balcony": "Yes",
       "ac": "no",
-      "amenities": ["Queen-size bed"]
+      "amenities": ["Queen-size bed", "Small Balcony"]
     },
     {
       "id": 24,
@@ -424,7 +424,7 @@
       "offSeasonRate": 4750,
       "balcony": "Yes",
       "ac": "no",
-      "amenities": ["Queen-size bed"]
+      "amenities": ["Queen-size bed", "Small Balcony"]
     },
     {
       "id": 25,
@@ -441,7 +441,7 @@
       "offSeasonRate": 4750,
       "balcony": "Yes",
       "ac": "no",
-      "amenities": ["Queen-size bed"]
+      "amenities": ["Queen-size bed", "Small Balcony"]
     },
     {
       "id": 26,
@@ -456,24 +456,24 @@
         "/Images/cla 1010/34676523.jpg",
         "/Images/cla 1010/198197.jpg"
       ],
-      "category": "Couple Snow Valley Series",
-      "rate": 4500,
-      "offSeasonRate": 4000,
-      "balcony": "no",
+      "category": "Classic non AC",
+      "rate": 5250,
+      "offSeasonRate": 4750,
+      "balcony": "Yes",
       "ac": "no",
-      "amenities": ["Queen-size bed"]
+      "amenities": ["Queen-size bed", "Small Balcony"]
     },
     {
-      "id": 1,
-      "name": "A1",
+      "id": 27,
+      "name": "CLA 2007",
       "description": "",
-      "imagePath": "/Images/a1/875649798.jpg",
+      "imagePath": "/Images/cla 2007/949155852.jpg",
       "gallery": [
-        "/Images/a1/875649798.jpg",
-        "/Images/a1/anex-view.jpg",
-        "/Images/a1/262654256.jpg"
+        "/Images/cla 2007/949155852.jpg",
+        "/Images/cla 2007/9491558234.jpg",
+        "/Images/a1/94915585.jpg"
       ],
-      "category": "Couple Snow Valley Series",
+      "category": "Classic non AC",
       "rate": 4500,
       "offSeasonRate": 4000,
       "balcony": "no",
