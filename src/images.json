@@ -22,7 +22,11 @@
       "name": "A2",
       "description": "",
       "imagePath": "/Images/a2/7836885.jpg",
-      "gallery": ["/Images/a2/7836885.jpg", "/Images/a2/anex-view.jpg"],
+      "gallery": [
+        "/Images/a2/7836885.jpg",
+        "/Images/a2/anex-view.jpg",
+        "/Images/a2/7836835.jpg"
+      ],
       "category": "Couple Snow Valley Series",
       "rate": 4500,
       "offSeasonRate": 4000,
@@ -34,8 +38,12 @@
       "id": 3,
       "name": "A3",
       "description": "",
-      "imagePath": "/Images/a3/6854678.jpg",
-      "gallery": ["/Images/a3/68546234.jpg", "/Images/a3/anex-view.jpg"],
+      "imagePath": "/Images/a3/68546234.jpg",
+      "gallery": [
+        "/Images/a3/68546234.jpg",
+        "/Images/a3/anex-view.jpg",
+        "/Images/a3/6854678.jpg"
+      ],
       "category": "Couple Snow Valley Series",
       "rate": 4500,
       "offSeasonRate": 4000,
@@ -47,114 +55,239 @@
       "id": 4,
       "name": "A4",
       "description": "",
-      "imagePath": "/Images/a4/7856789.jpg",
-      "gallery": ["/Images/a4/78567845.jpg", "/Images/a4/785678967.jpg"],
+      "imagePath": "/Images/a4/785678967.jpg",
+      "gallery": [
+        "/Images/a4/785678967.jpg",
+        "/Images/a4/78567845.jpg",
+        "/Images/a4/7856789.jpg",
+        "/Images/a4/anex-view.jpg"
+      ],
       "category": "Couple Snow Valley Series",
       "rate": 4500,
       "offSeasonRate": 4000,
       "balcony": "No",
-      "ac": "",
-      "amenities": [
-        "balcony with ocean view",
-        "King-size bed",
-        "Private bathroom"
-      ]
+      "ac": "No",
+      "amenities": ["Queen-size bed", "Free Wi-Fi"]
     },
     {
       "id": 5,
-      "name": "Suite with Pool Access",
-      "description": "Direct access to a private pool from your suite.",
-      "imagePath": "/Images/a2/7836835.jpg",
-      "category": "Luxury",
-      "rate": 350.0,
-      "offSeasonRate": 6000,
+      "name": "123/THMS",
+      "description": "",
+      "imagePath": "654894.jpg",
+      "gallery": [
+        "/Images/123/THMS/654894.jpg",
+        "/Images/a5/6548942.jpg",
+        "/Images/a5/65489469.jpg",
+        "/Images/a5/110.jpg"
+      ],
+
+      "category": "Couple Snow Valley Series",
+      "rate": 4500,
+      "offSeasonRate": 4000,
       "balcony": "No",
-      "ac": "Yes",
-      "amenities": ["Pool access", "Spacious living area", "Private terrace"]
+      "ac": "No",
+      "amenities": ["Queen-size bed", "Free Wi-Fi"]
+    },
+
+    {
+      "id": 5,
+      "name": "A5",
+      "description": "",
+      "imagePath": "969763456.jpg",
+      "gallery": [
+        "/Images/a5/969763456.jpg",
+        "/Images/a5/969769345.jpg",
+        "/Images/a5/969769534.jpg",
+        "/Images/a5/969769545.jpg",
+        "/Images/a5/anex-view.jpg"
+      ],
+
+      "category": "Couple Snow Valley Series",
+      "rate": 4500,
+      "offSeasonRate": 4000,
+      "balcony": "No",
+      "ac": "No",
+      "amenities": ["Queen-size bed", "Free Wi-Fi"]
     },
     {
       "id": 6,
-      "name": "Mountain View Retreat",
-      "description": "Escape to the mountains in this cozy retreat.",
-      "imagePath": "/Images/008/mountain-retreat.jpg",
+      "name": "A6",
+      "description": "",
+      "imagePath": "/Images/a6/253666.jpg",
       "gallery": [
-        "/Images/008/mountain-retreat.jpg",
-        "/Images/a4/anex-view.jpg",
-        "/Images/a2/7836835.jpg"
+        "/Images/a6/253666.jpg",
+        "/Images/a6/anex-view.jpg",
+        "/Images/a6/25366642.jpg"
       ],
-      "category": "Scenic",
-      "rate": 200.0,
-      "offSeasonRate": 3500,
-      "balcony": "Yes",
+      "category": "Family Snow Valley Series",
+      "rate": 7000,
+      "offSeasonRate": 6500,
+      "balcony": "Common",
       "ac": "No",
-      "amenities": ["Mountain view", "Fireplace", "Private deck"]
+      "amenities": ["Double  bed", "2 Bathroom", "Free Wi-Fi"]
     },
     {
       "id": 7,
-      "name": "Executive Suite",
-      "description": "Luxury meets sophistication in this executive suite.",
-      "imagePath": "/Images/008/executive-suite.jpg",
+      "name": "A7",
+      "description": "",
+      "imagePath": "/Images/a7/9835773.jpg",
       "gallery": [
-        "/Images/008/executive-suite.jpg",
-        "/Images/008/room102.jpg",
-        "/Images/a3/anex-view.jpg"
+        "/Images/a7/9835773.jpg",
+        "/Images/a7/anex-view.jpg",
+        "/Images/a3/983573.jpg"
       ],
-      "category": "Luxury",
-      "rate": 400.0,
+      "category": "Family Snow Valley Series",
+      "rate": 7000,
       "offSeasonRate": 6500,
-      "balcony": "Yes",
-      "ac": "Yes",
-      "amenities": ["Spa bath", "Private office", "City skyline view"]
+      "balcony": "Common",
+      "ac": "No",
+      "amenities": ["Double  bed", "2 Bathroom", "Free Wi-Fi"]
     },
     {
       "id": 8,
-      "name": "Beachfront Villa",
-      "description": "Experience ultimate relaxation in a beachfront villa.",
-      "imagePath": "/Images/a3/beachfront-villa.jpg",
+      "name": "A8",
+      "description": "",
+      "imagePath": "/Images/a8/96976234.jpg",
       "gallery": [
-        "/Images/a3/beachfront-villa.jpg",
-        "/Images/008/mountain-retreat.jpg",
-        "/Images/007/another_image.jpg"
+        "/Images/a8/96976234.jpg",
+        "/Images/a8/9697634.jpg",
+        "/Images/a8/anex-view.jpg"
       ],
-      "category": "Luxury",
-      "rate": 500.0,
-      "offSeasonRate": 7000,
-      "balcony": "Yes",
-      "ac": "Yes",
-      "amenities": ["Private beach access", "Infinity pool", "Outdoor dining"]
+      "category": "Family Snow Valley Series",
+      "rate": 7000,
+      "offSeasonRate": 6500,
+      "balcony": "Common",
+      "ac": "No",
+      "amenities": ["Double  bed", "2 Bathroom", "Free Wi-Fi"]
     },
     {
       "id": 9,
-      "name": "Cozy Cabin",
-      "description": "Embrace nature in this charming cozy cabin.",
-      "imagePath": "/Images/a2/cozy-cabin.jpg",
-      "category": "Scenic",
-      "rate": 150.0,
-      "offSeasonRate": 3000,
-      "balcony": "No",
+      "name": "B1",
+      "description": "",
+      "imagePath": "/Images/b1/7456475.jpg",
+      "gallery": [
+        "/Images/b1/7456475.jpg",
+        "/Images/b1/7456474.jpg",
+        "/Images/b1/anex-view.jpg"
+      ],
+      "category": "Family Snow Valley Series",
+      "rate": 7000,
+      "offSeasonRate": 6500,
+      "balcony": "Common",
       "ac": "No",
-      "amenities": ["Wood-burning fireplace", "Forest view", "Private porch"]
+      "amenities": ["2 bedroom", "Free Wi-Fi"]
     },
     {
       "id": 10,
-      "name": "Urban Loft",
-      "description": "Modern elegance in the heart of the city.",
-      "imagePath": "/Images/a3/urban-loft.jpg",
+      "name": "B2",
+      "description": "",
+      "imagePath": "/Images/b2/15435265.jpg",
       "gallery": [
-        "/Images/a3/urban-loft.jpg",
-        "/Images/120/19514234.jpg",
-        "/Images/a4/anex-view.jpg"
+        "/Images/b2/15435265.jpg",
+        "/Images/b2/1543534.jpg",
+        "/Images/b2/15435234.jpg",
+        "/Images/b2/anex-view.jpg"
       ],
-      "category": "Luxury",
-      "rate": 300.0,
-      "offSeasonRate": 5500,
-      "balcony": "Yes",
-      "ac": "Yes",
-      "amenities": [
-        "City skyline view",
-        "Floor-to-ceiling windows",
-        "Contemporary design"
-      ]
+      "category": "Family Snow Valley Series",
+      "rate": 7000,
+      "offSeasonRate": 6500,
+      "balcony": "Common",
+      "ac": "No",
+      "amenities": ["2 bedroom", "Free Wi-Fi"]
+    },
+    {
+      "id": 11,
+      "name": "B3",
+      "description": "",
+      "imagePath": "/Images/b3/8456564.jpg",
+      "gallery": [
+        "/Images/b3/8456564.jpg",
+        "/Images/b3/8456584.jpg",
+        "/Images/b3/84565635.jpg",
+        "/Images/b3/anex-view.jpg"
+      ],
+      "category": "Family Snow Valley Series",
+      "rate": 7000,
+      "offSeasonRate": 6500,
+      "balcony": "Common",
+      "ac": "No",
+      "amenities": ["2 bedroom", "Free Wi-Fi"]
+    },
+    {
+      "id": 12,
+      "name": "ANNEX1",
+      "description": "",
+      "imagePath": "/Images/annex1/2456254.jpg",
+      "gallery": ["/Images/annex1/2456254.jpg", "/Images/annex1/2456256.jpg"],
+      "category": "Family Snow Valley Series",
+      "rate": 7000,
+      "offSeasonRate": 6500,
+      "balcony": "No",
+      "ac": "No",
+      "amenities": ["Twin bed", "Free Wi-Fi"]
+    },
+    {
+      "id": 13,
+      "name": "ANNEX 2",
+      "description": "",
+      "imagePath": "/Images/annex 2/23645787.jpg",
+      "gallery": ["/Images/annex 2/23645787.jpg", "/Images/annex 2/236457.jpg"],
+      "category": "Family Snow Valley Series",
+      "rate": 7000,
+      "offSeasonRate": 6500,
+      "balcony": "no",
+      "ac": "no",
+      "amenities": ["Twin bed", "Free Wi-Fi"]
+    },
+    {
+      "id": 14,
+      "name": "ANNEX 3",
+      "description": "",
+      "imagePath": "/Images/annex 3/14234534.jpg",
+      "gallery": [
+        "/Images/annex 3/14234534.jpg",
+        "/Images/annex 3/14234535.jpg"
+      ],
+      "category": "Family Snow Valley Series",
+      "rate": 7000,
+      "offSeasonRate": 6500,
+      "balcony": "no",
+      "ac": "no",
+      "amenities": ["Twin bed", "Free Wi-Fi"]
+    },
+    {
+      "id": 15,
+      "name": "ANNEX 4",
+      "description": "",
+      "imagePath": "/Images/annex 4/875649798.jpg",
+      "gallery": [
+        "/Images/annex 4/875649798.jpg",
+        "/Images/annex 4/anex-view.jpg",
+        "/Images/a1/262654256.jpg"
+      ],
+      "category": "Family Snow Valley Series",
+      "rate": 4500,
+      "offSeasonRate": 4000,
+      "balcony": "no",
+      "ac": "no",
+      "amenities": ["Twin bed", "Free Wi-Fi"]
+    },
+    {
+      "id": 16,
+      "name": "ANNEX 5",
+      "description": "",
+      "imagePath": "/Images/a1/875649798.jpg",
+      "gallery": [
+        "/Images/a1/875649798.jpg",
+        "/Images/a1/anex-view.jpg",
+        "/Images/a1/262654256.jpg"
+      ],
+      "category": "Family Snow Valley Series",
+      "rate": 4500,
+      "offSeasonRate": 4000,
+      "balcony": "no",
+      "ac": "no",
+      "amenities": ["Twin bed", "Free Wi-Fi"]
     }
   ]
 }
