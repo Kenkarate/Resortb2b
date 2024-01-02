@@ -16,8 +16,8 @@ const Rooms = ({ rooms }) => {
   return (
     <div>
       <Header />
-      {category && <h2 className="text-2xl font-semibold">{category} Rooms</h2>}
-      <div className="grid grid-cols-3">
+      {category && <h2 className="text-2xl font-semibold px-[5%] lg:px-0 lg:m-5">{category} Rooms</h2>}
+      <div className="lg:grid lg:grid-cols-3">
 
       {filteredRooms.map((room) => (
         <div key={room.id} className="p-5">

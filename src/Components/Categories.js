@@ -30,7 +30,7 @@ const Categories = () => {
     <div>
       <Header />
       <h2 className="text-3xl text-center font-semibold py-5">Categories</h2>
-      <table className="table-auto mx-auto">
+      <table className="table-auto mx-[5%] ">
         <thead>
           <tr>
             <th className="border px-4 py-2">Category Name</th>
