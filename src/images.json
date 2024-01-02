@@ -259,15 +259,14 @@
       "id": 15,
       "name": "ANNEX 4",
       "description": "",
-      "imagePath": "/Images/annex 4/875649798.jpg",
+      "imagePath": "/Images/annex 4/24235245.jpg",
       "gallery": [
-        "/Images/annex 4/875649798.jpg",
-        "/Images/annex 4/anex-view.jpg",
-        "/Images/a1/262654256.jpg"
+        "/Images/annex 4/24235245.jpg",
+        "/Images/annex 4/24235223.jpg"
       ],
       "category": "Family Snow Valley Series",
-      "rate": 4500,
-      "offSeasonRate": 4000,
+      "rate": 7000,
+      "offSeasonRate": 6500,
       "balcony": "no",
       "ac": "no",
       "amenities": ["Twin bed", "Free Wi-Fi"]
@@ -276,18 +275,295 @@
       "id": 16,
       "name": "ANNEX 5",
       "description": "",
+      "imagePath": "/Images/annex 5/8548534.jpg",
+      "gallery": [
+        "/Images/annex 5/8548534.jpg",
+        "/Images/annex 5/8548345.jpg",
+        "/Images/annex 5/85485324.jpg",
+        "/Images/annex 5/85485345.jpg",
+        "/Images/annex 5/85485376.jpg",
+        "/Images/annex 5/85485345423.jpg",
+        "/Images/annex 5/85485858.jpg"
+      ],
+      "category": "Family Snow Valley Series",
+      "rate": 7000,
+      "offSeasonRate": 6500,
+      "balcony": "no",
+      "ac": "no",
+      "amenities": ["Twin bed", "Free Wi-Fi"]
+    },
+    {
+      "id": 17,
+      "name": "CLA 107",
+      "description": "",
+      "imagePath": "/Images/cla 107/046A9831.jpg",
+      "gallery": [
+        "/Images/cla 107/046A9831.jpg",
+        "/Images/cla 107/046A9840.jpg",
+        "/Images/cla 107/046A9833.jpg"
+      ],
+      "category": "Classic",
+      "rate": 5250,
+      "offSeasonRate": 4750,
+      "balcony": "no",
+      "ac": "no",
+      "amenities": ["Queen-size bed"]
+    },
+    {
+      "id": 18,
+      "name": "CLA 105",
+      "description": "",
+      "imagePath": "/Images/cla 105/53526.jpg",
+      "gallery": [
+        "/Images/cla 105/53526.jpg",
+        "/Images/cla 105/046A9840.jpg",
+        "/Images/cla 105/53527.jpg"
+      ],
+      "category": "Classic AC",
+      "rate": 5250,
+      "offSeasonRate": 4750,
+      "balcony": "no",
+      "ac": "Yes",
+      "amenities": ["Queen-size bed"]
+    },
+    {
+      "id": 19,
+      "name": "CLA 999",
+      "description": "",
+      "imagePath": "/Images/cla 999/96739343.jpg",
+      "gallery": [
+        "/Images/cla 999/96739343.jpg",
+        "/Images/cla 999/9673972.jpg",
+        "/Images/cla 999/9673979.jpg.jpg"
+      ],
+      "category": "Classic AC",
+      "rate": 5250,
+      "offSeasonRate": 4750,
+      "balcony": "no",
+      "ac": "Yes",
+      "amenities": ["Round bed"]
+    },
+    {
+      "id": 20,
+      "name": "CLA 1999",
+      "description": "",
+      "imagePath": "/Images/cla 1999/8865756.jpg",
+      "gallery": [
+        "/Images/cla 1999/8865756.jpg",
+        "/Images/cla 1999/886573.jpg"
+      ],
+      "category": "Classic AC",
+      "rate": 5250,
+      "offSeasonRate": 4750,
+      "balcony": "no",
+      "ac": "Yes",
+      "amenities": ["Queen-size bed"]
+    },
+    {
+      "id": 21,
+      "name": "CLA DLX 109",
+      "description": "",
+      "imagePath": "/Images/cla dlx 109/48448.jpg",
+      "gallery": [
+        "/Images/cla dlx 109/48448.jpg",
+        "/Images/cla dlx 109/48449.jpg"
+      ],
+      "category": "Classic Non AC",
+      "rate": 5250,
+      "offSeasonRate": 4750,
+      "balcony": "Yes",
+      "ac": "no",
+      "amenities": ["Queen-size bed"]
+    },
+    {
+      "id": 22,
+      "name": "CLA DLX 110",
+      "description": "",
+      "imagePath": "/Images/cla dlx 110/48450.jpg",
+      "gallery": [
+        "/Images/cla dlx 110/48450.jpg",
+        "/Images/cla dlx 110/4845.jpg",
+        "/Images/cla dlx 110/48451.jpg"
+      ],
+      "category": "Classic Non AC",
+      "rate": 5250,
+      "offSeasonRate": 4750,
+      "balcony": "Yes",
+      "ac": "no",
+      "amenities": ["Queen-size bed"]
+    },
+    {
+      "id": 23,
+      "name": "CLA 1007",
+      "description": "",
+      "imagePath": "/Images/cla 1007/55748568.jpg",
+      "gallery": [
+        "/Images/cla 1007/55748568.jpg",
+        "/Images/cla 1007/557485345.jpg",
+        "/Images/cla 003/55748545.jpg"
+      ],
+      "category": "Classic non AC with Balcony ",
+      "rate": 5250,
+      "offSeasonRate": 4750,
+      "balcony": "Yes",
+      "ac": "no",
+      "amenities": ["Queen-size bed"]
+    },
+    {
+      "id": 24,
+      "name": "CLA 1008",
+      "description": "",
+      "imagePath": "/Images/cla 1008/854865454.jpg",
+      "gallery": [
+        "/Images/cla 1008/854865454.jpg",
+        "/Images/cla 1008/854865346.jpg",
+        "/Images/cla 1008/854865456.jpg"
+      ],
+      "category": "Classic non AC",
+      "rate": 5250,
+      "offSeasonRate": 4750,
+      "balcony": "Yes",
+      "ac": "no",
+      "amenities": ["Queen-size bed"]
+    },
+    {
+      "id": 25,
+      "name": "CLA 1009",
+      "description": "",
+      "imagePath": "/Images/cla 1009/875649798.jpg",
+      "gallery": [
+        "/Images/cla 1009/875649798.jpg",
+        "/Images/cla 1009/anex-view.jpg",
+        "/Images/cla 1009/262654256.jpg"
+      ],
+      "category": "Classic non AC",
+      "rate": 5250,
+      "offSeasonRate": 4750,
+      "balcony": "Yes",
+      "ac": "no",
+      "amenities": ["Queen-size bed"]
+    },
+    {
+      "id": 26,
+      "name": "CLA 1010",
+      "description": "",
+      "imagePath": "/Images/cla 1010/198195.jpg",
+      "gallery": [
+        "/Images/cla 1010/198195.jpg",
+        "/Images/cla 1010/3467653.jpg",
+        "/Images/cla 1010/198196.jpg",
+        "/Images/cla 1010/34676235.jpg",
+        "/Images/cla 1010/34676523.jpg",
+        "/Images/cla 1010/198197.jpg"
+      ],
+      "category": "Couple Snow Valley Series",
+      "rate": 4500,
+      "offSeasonRate": 4000,
+      "balcony": "no",
+      "ac": "no",
+      "amenities": ["Queen-size bed"]
+    },
+    {
+      "id": 1,
+      "name": "A1",
+      "description": "",
       "imagePath": "/Images/a1/875649798.jpg",
       "gallery": [
         "/Images/a1/875649798.jpg",
         "/Images/a1/anex-view.jpg",
         "/Images/a1/262654256.jpg"
       ],
-      "category": "Family Snow Valley Series",
+      "category": "Couple Snow Valley Series",
       "rate": 4500,
       "offSeasonRate": 4000,
       "balcony": "no",
       "ac": "no",
-      "amenities": ["Twin bed", "Free Wi-Fi"]
+      "amenities": ["Queen-size bed"]
+    },
+    {
+      "id": 1,
+      "name": "A1",
+      "description": "",
+      "imagePath": "/Images/a1/875649798.jpg",
+      "gallery": [
+        "/Images/a1/875649798.jpg",
+        "/Images/a1/anex-view.jpg",
+        "/Images/a1/262654256.jpg"
+      ],
+      "category": "Couple Snow Valley Series",
+      "rate": 4500,
+      "offSeasonRate": 4000,
+      "balcony": "no",
+      "ac": "no",
+      "amenities": ["Queen-size bed"]
+    },
+    {
+      "id": 1,
+      "name": "A1",
+      "description": "",
+      "imagePath": "/Images/a1/875649798.jpg",
+      "gallery": [
+        "/Images/a1/875649798.jpg",
+        "/Images/a1/anex-view.jpg",
+        "/Images/a1/262654256.jpg"
+      ],
+      "category": "Couple Snow Valley Series",
+      "rate": 4500,
+      "offSeasonRate": 4000,
+      "balcony": "no",
+      "ac": "no",
+      "amenities": ["Queen-size bed"]
+    },
+    {
+      "id": 1,
+      "name": "A1",
+      "description": "",
+      "imagePath": "/Images/a1/875649798.jpg",
+      "gallery": [
+        "/Images/a1/875649798.jpg",
+        "/Images/a1/anex-view.jpg",
+        "/Images/a1/262654256.jpg"
+      ],
+      "category": "Couple Snow Valley Series",
+      "rate": 4500,
+      "offSeasonRate": 4000,
+      "balcony": "no",
+      "ac": "no",
+      "amenities": ["Queen-size bed"]
+    },
+    {
+      "id": 1,
+      "name": "A1",
+      "description": "",
+      "imagePath": "/Images/a1/875649798.jpg",
+      "gallery": [
+        "/Images/a1/875649798.jpg",
+        "/Images/a1/anex-view.jpg",
+        "/Images/a1/262654256.jpg"
+      ],
+      "category": "Couple Snow Valley Series",
+      "rate": 4500,
+      "offSeasonRate": 4000,
+      "balcony": "no",
+      "ac": "no",
+      "amenities": ["Queen-size bed"]
+    },
+    {
+      "id": 1,
+      "name": "A1",
+      "description": "",
+      "imagePath": "/Images/a1/875649798.jpg",
+      "gallery": [
+        "/Images/a1/875649798.jpg",
+        "/Images/a1/anex-view.jpg",
+        "/Images/a1/262654256.jpg"
+      ],
+      "category": "Couple Snow Valley Series",
+      "rate": 4500,
+      "offSeasonRate": 4000,
+      "balcony": "no",
+      "ac": "no",
+      "amenities": ["Queen-size bed"]
     }
   ]
 }
