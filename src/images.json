@@ -1,0 +1,160 @@
+{
+  "rooms": [
+    {
+      "id": 1,
+      "name": "A1",
+      "description": "",
+      "imagePath": "/Images/a1/875649798.jpg",
+      "gallery": [
+        "/Images/a1/875649798.jpg",
+        "/Images/a1/anex-view.jpg",
+        "/Images/a1/262654256.jpg"
+      ],
+      "category": "Couple Snow Valley Series",
+      "rate": 4500,
+      "offSeasonRate": 4000,
+      "balcony": "no",
+      "ac": "no",
+      "amenities": ["Queen-size bed"]
+    },
+    {
+      "id": 2,
+      "name": "A2",
+      "description": "",
+      "imagePath": "/Images/a2/7836885.jpg",
+      "gallery": ["/Images/a2/7836885.jpg", "/Images/a2/anex-view.jpg"],
+      "category": "Couple Snow Valley Series",
+      "rate": 4500,
+      "offSeasonRate": 4000,
+      "balcony": "No",
+      "ac": "No",
+      "amenities": ["Queen-size bed", "Free Wi-Fi"]
+    },
+    {
+      "id": 3,
+      "name": "A3",
+      "description": "",
+      "imagePath": "/Images/a3/6854678.jpg",
+      "gallery": ["/Images/a3/68546234.jpg", "/Images/a3/anex-view.jpg"],
+      "category": "Couple Snow Valley Series",
+      "rate": 4500,
+      "offSeasonRate": 4000,
+      "balcony": "No",
+      "ac": "No",
+      "amenities": ["Queen-size bed", "Free Wi-Fi"]
+    },
+    {
+      "id": 4,
+      "name": "A4",
+      "description": "",
+      "imagePath": "/Images/a4/7856789.jpg",
+      "gallery": ["/Images/a4/78567845.jpg", "/Images/a4/785678967.jpg"],
+      "category": "Couple Snow Valley Series",
+      "rate": 4500,
+      "offSeasonRate": 4000,
+      "balcony": "No",
+      "ac": "",
+      "amenities": [
+        "balcony with ocean view",
+        "King-size bed",
+        "Private bathroom"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Suite with Pool Access",
+      "description": "Direct access to a private pool from your suite.",
+      "imagePath": "/Images/a2/7836835.jpg",
+      "category": "Luxury",
+      "rate": 350.0,
+      "offSeasonRate": 6000,
+      "balcony": "No",
+      "ac": "Yes",
+      "amenities": ["Pool access", "Spacious living area", "Private terrace"]
+    },
+    {
+      "id": 6,
+      "name": "Mountain View Retreat",
+      "description": "Escape to the mountains in this cozy retreat.",
+      "imagePath": "/Images/008/mountain-retreat.jpg",
+      "gallery": [
+        "/Images/008/mountain-retreat.jpg",
+        "/Images/a4/anex-view.jpg",
+        "/Images/a2/7836835.jpg"
+      ],
+      "category": "Scenic",
+      "rate": 200.0,
+      "offSeasonRate": 3500,
+      "balcony": "Yes",
+      "ac": "No",
+      "amenities": ["Mountain view", "Fireplace", "Private deck"]
+    },
+    {
+      "id": 7,
+      "name": "Executive Suite",
+      "description": "Luxury meets sophistication in this executive suite.",
+      "imagePath": "/Images/008/executive-suite.jpg",
+      "gallery": [
+        "/Images/008/executive-suite.jpg",
+        "/Images/008/room102.jpg",
+        "/Images/a3/anex-view.jpg"
+      ],
+      "category": "Luxury",
+      "rate": 400.0,
+      "offSeasonRate": 6500,
+      "balcony": "Yes",
+      "ac": "Yes",
+      "amenities": ["Spa bath", "Private office", "City skyline view"]
+    },
+    {
+      "id": 8,
+      "name": "Beachfront Villa",
+      "description": "Experience ultimate relaxation in a beachfront villa.",
+      "imagePath": "/Images/a3/beachfront-villa.jpg",
+      "gallery": [
+        "/Images/a3/beachfront-villa.jpg",
+        "/Images/008/mountain-retreat.jpg",
+        "/Images/007/another_image.jpg"
+      ],
+      "category": "Luxury",
+      "rate": 500.0,
+      "offSeasonRate": 7000,
+      "balcony": "Yes",
+      "ac": "Yes",
+      "amenities": ["Private beach access", "Infinity pool", "Outdoor dining"]
+    },
+    {
+      "id": 9,
+      "name": "Cozy Cabin",
+      "description": "Embrace nature in this charming cozy cabin.",
+      "imagePath": "/Images/a2/cozy-cabin.jpg",
+      "category": "Scenic",
+      "rate": 150.0,
+      "offSeasonRate": 3000,
+      "balcony": "No",
+      "ac": "No",
+      "amenities": ["Wood-burning fireplace", "Forest view", "Private porch"]
+    },
+    {
+      "id": 10,
+      "name": "Urban Loft",
+      "description": "Modern elegance in the heart of the city.",
+      "imagePath": "/Images/a3/urban-loft.jpg",
+      "gallery": [
+        "/Images/a3/urban-loft.jpg",
+        "/Images/120/19514234.jpg",
+        "/Images/a4/anex-view.jpg"
+      ],
+      "category": "Luxury",
+      "rate": 300.0,
+      "offSeasonRate": 5500,
+      "balcony": "Yes",
+      "ac": "Yes",
+      "amenities": [
+        "City skyline view",
+        "Floor-to-ceiling windows",
+        "Contemporary design"
+      ]
+    }
+  ]
+}
