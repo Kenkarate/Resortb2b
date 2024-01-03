@@ -21,7 +21,7 @@ const ProductDetail = ({ rooms }) => {
       </div>
 
       {/* <img className="w-[400px]" src={room.imagePath} alt={room.name} /> */}
-      <div className="grid lg:grid-cols-2 py-10">
+      <div className="grid lg:grid-cols-2  py-10">
         <div className="p-5 image-gallery">
           <div className="grid gap-4 ">
             <div>

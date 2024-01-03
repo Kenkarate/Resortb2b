@@ -2,6 +2,7 @@
 import React from "react";
 import { useParams,Link } from "react-router-dom";
 import Header from "./Header";
+import Breadcrumbs from "./Breadcrumbs";
 
 const Rooms = ({ rooms }) => {
   const { category } = useParams();
@@ -16,8 +17,9 @@ const Rooms = ({ rooms }) => {
   return (
     <div>
       <Header />
+      <Breadcrumbs/>
       {category && <h2 className="text-2xl font-semibold px-[5%] lg:px-0 lg:m-5">{category} Rooms</h2>}
-      <div className="lg:grid lg:grid-cols-3">
+      <div className="lg:grid lg:grid-cols-3 xl:grid-cols-4">
 
       {filteredRooms.map((room) => (
         <div key={room.id} className="p-5">

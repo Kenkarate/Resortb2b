@@ -294,13 +294,13 @@
     },
     {
       "id": 17,
-      "name": "CLASSIC 107",
+      "name": "CLA 107",
       "description": "",
-      "imagePath": "/Images/CLASSIC 1007/046A9831.jpg",
+      "imagePath": "/Images/mini classic 107/046A9831.jpg",
       "gallery": [
-        "/Images/CLASSIC 1007/55748545.jpg",
-        "/Images/CLASSIC 1007/046A9840.jpg",
-        "/Images/CLASSIC 1007/046A9833.jpg"
+        "/Images/mini classic 107/046A9831.jpg",
+        "/Images/mini classic 107/046A9840.jpg",
+        "/Images/mini classic 107/046A9833.jpg"
       ],
       "category": "Classic",
       "rate": 5250,
@@ -313,11 +313,11 @@
       "id": 18,
       "name": "CLA 105",
       "description": "",
-      "imagePath": "/Images/cla 105/53526.jpg",
+      "imagePath": "/Images/mini classic 105/53526.jpg",
       "gallery": [
-        "/Images/cla 105/53526.jpg",
-        "/Images/cla 105/046A9840.jpg",
-        "/Images/cla 105/53527.jpg"
+        "/Images/mini classic 105/53526.jpg",
+        "/Images/mini classic 105/046A9840.jpg",
+        "/Images/mini classic 105/53527.jpg"
       ],
       "category": "Classic AC",
       "rate": 5250,
@@ -330,11 +330,11 @@
       "id": 19,
       "name": "CLA 999",
       "description": "",
-      "imagePath": "/Images/cla 999/96739343.jpg",
+      "imagePath": "/Images/mini classic 999/96739343.jpg",
       "gallery": [
-        "/Images/cla 999/96739343.jpg",
-        "/Images/cla 999/9673972.jpg",
-        "/Images/cla 999/9673979.jpg.jpg"
+        "/Images/mini classic 999/96739343.jpg",
+        "/Images/mini classic 999/9673972.jpg",
+        "/Images/mini classic 999/9673979.jpg.jpg"
       ],
       "category": "Classic AC",
       "rate": 5250,
@@ -347,10 +347,10 @@
       "id": 20,
       "name": "CLA 1999",
       "description": "",
-      "imagePath": "/Images/cla 1999/8865756.jpg",
+      "imagePath": "/Images/mini classic 1999/8865756.jpg",
       "gallery": [
-        "/Images/cla 1999/8865756.jpg",
-        "/Images/cla 1999/886573.jpg"
+        "/Images/mini classic 1999/8865756.jpg",
+        "/Images/mini classic 1999/886573.jpg"
       ],
       "category": "Classic AC",
       "rate": 5250,
@@ -363,98 +363,98 @@
       "id": 21,
       "name": "CLA DLX 109",
       "description": "",
-      "imagePath": "/Images/cla dlx 109/48448.jpg",
+      "imagePath": "/Images/classic deluxe 109/48448.jpg",
       "gallery": [
-        "/Images/cla dlx 109/48448.jpg",
-        "/Images/cla dlx 109/48449.jpg"
+        "/Images/classic deluxe 109/48448.jpg",
+        "/Images/classic deluxe 109/48449.jpg"
       ],
       "category": "Classic Non AC",
       "rate": 5250,
       "offSeasonRate": 4750,
       "balcony": "Yes",
       "ac": "no",
-      "amenities": ["Queen-size bed", "Small Balcony"]
+      "amenities": ["Queen-size bed", " Small Balcony"]
     },
     {
       "id": 22,
       "name": "CLA DLX 110",
       "description": "",
-      "imagePath": "/Images/cla dlx 110/48450.jpg",
+      "imagePath": "/Images/classic deluxe 110/48450.jpg",
       "gallery": [
-        "/Images/cla dlx 110/48450.jpg",
-        "/Images/cla dlx 110/4845.jpg",
-        "/Images/cla dlx 110/48451.jpg"
+        "/Images/classic deluxe110/48450.jpg",
+        "/Images/classic deluxe 110/4845.jpg",
+        "/Images/classic deluxe 110/48451.jpg"
       ],
       "category": "Classic Non AC",
       "rate": 5250,
       "offSeasonRate": 4750,
       "balcony": "Yes",
       "ac": "no",
-      "amenities": ["Queen-size bed", "Small Balcony"]
+      "amenities": ["Queen-size bed", " Small Balcony"]
     },
     {
       "id": 23,
       "name": "CLA 1007",
       "description": "",
-      "imagePath": "/Images/cla 1007/55748568.jpg",
+      "imagePath": "/Images/CLASSIC 1007/55748568.jpg",
       "gallery": [
-        "/Images/cla 1007/55748568.jpg",
-        "/Images/cla 1007/557485345.jpg",
-        "/Images/cla 003/55748545.jpg"
+        "/Images/CLASSIC 1007/5748568.jpg5",
+        "/Images/classic 1007/557485345.jpg",
+        "/Images/classic1007/55748545.jpg"
       ],
       "category": "Classic non AC with Balcony ",
       "rate": 5250,
       "offSeasonRate": 4750,
       "balcony": "Yes",
       "ac": "no",
-      "amenities": ["Queen-size bed", "Small Balcony"]
+      "amenities": ["Queen-size bed", " Balcony"]
     },
     {
       "id": 24,
       "name": "CLA 1008",
       "description": "",
-      "imagePath": "/Images/cla 1008/854865454.jpg",
+      "imagePath": "/Images/classic 1008/854865454.jpg",
       "gallery": [
-        "/Images/cla 1008/854865454.jpg",
-        "/Images/cla 1008/854865346.jpg",
-        "/Images/cla 1008/854865456.jpg"
+        "/Images/classic 1008/854865454.jpg",
+        "/Images/classic 1008/854865346.jpg",
+        "/Images/classic 1008/854865456.jpg"
       ],
       "category": "Classic non AC",
       "rate": 5250,
       "offSeasonRate": 4750,
       "balcony": "Yes",
       "ac": "no",
-      "amenities": ["Queen-size bed", "Small Balcony"]
+      "amenities": ["Queen-size bed", "  Small Balcony"]
     },
     {
       "id": 25,
       "name": "CLA 1009",
       "description": "",
-      "imagePath": "/Images/cla 1009/875649798.jpg",
+      "imagePath": "/Images/classic 1009/875649798.jpg",
       "gallery": [
-        "/Images/cla 1009/875649798.jpg",
-        "/Images/cla 1009/anex-view.jpg",
-        "/Images/cla 1009/262654256.jpg"
+        "/Images/classic 1009/875649798.jpg",
+        "/Images/classic 1009/anex-view.jpg",
+        "/Images/classic 1009/262654256.jpg"
       ],
       "category": "Classic non AC",
       "rate": 5250,
       "offSeasonRate": 4750,
       "balcony": "Yes",
       "ac": "no",
-      "amenities": ["Queen-size bed", "Small Balcony"]
+      "amenities": ["Queen-size bed", "  Small Balcony"]
     },
     {
       "id": 26,
       "name": "CLA 1010",
       "description": "",
-      "imagePath": "/Images/cla 1010/198195.jpg",
+      "imagePath": "/Images/classic 1010/198195.jpg",
       "gallery": [
-        "/Images/cla 1010/198195.jpg",
-        "/Images/cla 1010/3467653.jpg",
-        "/Images/cla 1010/198196.jpg",
-        "/Images/cla 1010/34676235.jpg",
+        "/Images/classic 1010/198195.jpg",
+        "/Images/classic 1010/3467653.jpg",
+        "/Images/classic 1010/198196.jpg",
+        "/Images/classic 1010/34676235.jpg",
         "/Images/cla 1010/34676523.jpg",
-        "/Images/cla 1010/198197.jpg"
+        "/Images/classic 1010/198197.jpg"
       ],
       "category": "Classic non AC",
       "rate": 5250,
@@ -467,103 +467,407 @@
       "id": 27,
       "name": "CLA 2007",
       "description": "",
-      "imagePath": "/Images/cla 2007/949155852.jpg",
+      "imagePath": "/Images/classic 2007/949155852.jpg",
       "gallery": [
-        "/Images/cla 2007/949155852.jpg",
-        "/Images/cla 2007/9491558234.jpg",
-        "/Images/a1/94915585.jpg"
+        "/Images/classic 2007/949155852.jpg",
+        "/Images/classic 2007/9491558234.jpg",
+        "/Images/classic 2007/94915585.jpg"
       ],
       "category": "Classic non AC",
-      "rate": 4500,
-      "offSeasonRate": 4000,
-      "balcony": "no",
+      "rate": 5250,
+      "offSeasonRate": 4750,
+      "balcony": "Yes",
       "ac": "no",
-      "amenities": ["Queen-size bed"]
+      "amenities": ["Queen-size bed", "Small Balcony"]
     },
     {
-      "id": 1,
-      "name": "A1",
+      "id": 28,
+      "name": "CLA 2008",
       "description": "",
-      "imagePath": "/Images/a1/875649798.jpg",
+      "imagePath": "/Images/classic 2008/23245436.jpg",
       "gallery": [
-        "/Images/a1/875649798.jpg",
-        "/Images/a1/anex-view.jpg",
-        "/Images/a1/262654256.jpg"
+        "/Images/classic 2008/23245436.jpg",
+        "/Images/classic 2008/23245437.jpg",
+        "/Images/classic 2008/23245439.jpg"
       ],
-      "category": "Couple Snow Valley Series",
-      "rate": 4500,
-      "offSeasonRate": 4000,
-      "balcony": "no",
+      "category": "Classic non AC",
+      "rate": 5250,
+      "offSeasonRate": 4750,
+      "balcony": "Yes",
       "ac": "no",
-      "amenities": ["Queen-size bed"]
+      "amenities": ["Queen-size bed", "Small Balcony"]
     },
     {
-      "id": 1,
-      "name": "A1",
+      "id": 29,
+      "name": "CLA 2009",
       "description": "",
-      "imagePath": "/Images/a1/875649798.jpg",
+      "imagePath": "/Images/classic 2009/8194732.jpg",
       "gallery": [
-        "/Images/a1/875649798.jpg",
-        "/Images/a1/anex-view.jpg",
-        "/Images/a1/262654256.jpg"
+        "/Images/classic 2009/8194732.jpg",
+        "/Images/classic 2009/8194733.jpg",
+        "/Images/classic 2009/81947325.jpg"
       ],
-      "category": "Couple Snow Valley Series",
-      "rate": 4500,
-      "offSeasonRate": 4000,
-      "balcony": "no",
+      "category": "Classic non AC",
+      "rate": 5250,
+      "offSeasonRate": 4750,
+      "balcony": "Yes",
       "ac": "no",
-      "amenities": ["Queen-size bed"]
+      "amenities": ["Queen-size bed", "Small Balcony"]
     },
     {
-      "id": 1,
-      "name": "A1",
+      "id": 30,
+      "name": "CLA 2010",
       "description": "",
-      "imagePath": "/Images/a1/875649798.jpg",
+      "imagePath": "/Images/classic 2010/9248935.jpg",
       "gallery": [
-        "/Images/a1/875649798.jpg",
-        "/Images/a1/anex-view.jpg",
-        "/Images/a1/262654256.jpg"
+        "/Images/classic 2010/9248935.jpg",
+        "/Images/classic 2010/924893.jpg",
+        "/Images/classic 2010/92489353.jpg"
       ],
-      "category": "Couple Snow Valley Series",
-      "rate": 4500,
-      "offSeasonRate": 4000,
-      "balcony": "no",
+      "category": "Classic non AC",
+      "rate": 5250,
+      "offSeasonRate": 4750,
+      "balcony": "Yes",
       "ac": "no",
-      "amenities": ["Queen-size bed"]
+      "amenities": ["Queen-size bed", "Small Balcony"]
     },
     {
-      "id": 1,
-      "name": "A1",
+      "id": 31,
+      "name": "CLA DLX 900",
       "description": "",
-      "imagePath": "/Images/a1/875649798.jpg",
+      "imagePath": "/Images/classic deluxe 900/48448.jpg",
       "gallery": [
-        "/Images/a1/875649798.jpg",
-        "/Images/a1/anex-view.jpg",
-        "/Images/a1/262654256.jpg"
+        "/Images/classic deluxe 900/48448.jpg",
+        "/Images/classic deluxe 900/48449.jpg"
       ],
-      "category": "Couple Snow Valley Series",
-      "rate": 4500,
-      "offSeasonRate": 4000,
-      "balcony": "no",
-      "ac": "no",
-      "amenities": ["Queen-size bed"]
+      "category": "Classic AC",
+      "rate": 5250,
+      "offSeasonRate": 4750,
+      "balcony": "Yes",
+      "ac": "Yes",
+      "amenities": ["Queen-size bed", " Balcony", "AC"]
     },
     {
-      "id": 1,
-      "name": "A1",
+      "id": 32,
+      "name": "CLA DLX 1990",
       "description": "",
-      "imagePath": "/Images/a1/875649798.jpg",
+      "imagePath": "/Images/classic deluxe 1990/9673976.jpg",
       "gallery": [
-        "/Images/a1/875649798.jpg",
-        "/Images/a1/anex-view.jpg",
-        "/Images/a1/262654256.jpg"
+        "/Images/classic deluxe 1990/9673976.jpg",
+        "/Images/classic deluxe 1990/9673974.jpg",
+        "/Images/classic deluxe 1990/9673978.jpg"
       ],
-      "category": "Couple Snow Valley Series",
-      "rate": 4500,
-      "offSeasonRate": 4000,
-      "balcony": "no",
-      "ac": "no",
-      "amenities": ["Queen-size bed"]
+      "category": "Classic AC",
+      "rate": 5250,
+      "offSeasonRate": 4750,
+      "balcony": "Yes",
+      "ac": "Yes",
+      "amenities": ["Queen-size bed", " Balcony", "AC"]
+    },
+    {
+      "id": 33,
+      "name": " DLX 116",
+      "description": "",
+      "imagePath": "/Images/deluxe 116/18478185.jpg",
+      "gallery": [
+        "/Images/ deluxe 116/18478185.jpg",
+        "/Images/deluxe 116/1847895.jpg",
+        "/Images/deluxe 116/184795159.jpg"
+      ],
+      "category": "Deluxe Non AC",
+      "rate": 5000,
+      "offSeasonRate": 4500,
+      "balcony": "Yes",
+      "ac": "No",
+      "amenities": ["Queen-size bed", " Common Balcony"]
+    },
+    {
+      "id": 34,
+      "name": " DLX 117",
+      "description": "",
+      "imagePath": "/Images/deluxe 117/1654586.jpg",
+      "gallery": [
+        "/Images/deluxe 117/1654586.jpg",
+        "/Images/deluxe 117/16543586.jpg"
+      ],
+      "category": "Deluxe Non AC",
+      "rate": 5000,
+      "offSeasonRate": 4500,
+      "balcony": "Yes",
+      "ac": "No",
+      "amenities": ["Queen-size bed", " Common Balcony"]
+    },
+    {
+      "id": 35,
+      "name": " DLX 118",
+      "description": "",
+      "imagePath": "/Images/deluxe 118/4532532.jpg",
+      "gallery": [
+        "/Images/deluxe 118/4532532.jpg",
+        "/Images/deluxe 118/453253474.jpg",
+        "/Images/deluxe 118/45332532.jpg"
+      ],
+      "category": "Deluxe Non AC",
+      "rate": 5000,
+      "offSeasonRate": 4500,
+      "balcony": "Yes",
+      "ac": "No",
+      "amenities": ["Queen-size bed", " Common Balcony"]
+    },
+    {
+      "id": 36,
+      "name": " DLX 119",
+      "description": "",
+      "imagePath": "/Images/deluxe 119/7657479.jpg",
+      "gallery": [
+        "/Images/deluxe 119/7657479.jpg",
+        "/Images/deluxe 119/76574723.jpg"
+      ],
+      "category": "Deluxe Non AC",
+      "rate": 5000,
+      "offSeasonRate": 4500,
+      "balcony": "Yes",
+      "ac": "No",
+      "amenities": ["Queen-size bed", " Common Balcony"]
+    },
+    {
+      "id": 37,
+      "name": "CLA 120",
+      "description": "",
+      "imagePath": "/Images/120/1951489.jpg",
+      "gallery": [
+        "/Images/120/1951489.jpg",
+        "/Images/120/19514234.jpg",
+        "/Images/120/19514345.jpg"
+      ],
+      "category": "Family Snow Valley Series",
+      "rate": 7000,
+      "offSeasonRate": 6500,
+      "balcony": "Yes",
+      "ac": "No",
+      "amenities": ["4 Sharing", "2 Queen-size bed", " Balcony", "Non AC"]
+    },
+    {
+      "id": 38,
+      "name": "CLA 121",
+      "description": "",
+      "imagePath": "/Images/121/491562.jpg",
+      "gallery": [
+        "/Images/121/491562.jpg",
+        "/Images/121/491545.jpg",
+        "/Images/121/491516.jpg"
+      ],
+      "category": "Family Snow Valley Series",
+      "rate": 7000,
+      "offSeasonRate": 6500,
+      "balcony": "Yes",
+      "ac": "No",
+      "amenities": ["4 Sharing", "2 Queen-size bed", " Balcony", "Non AC"]
+    },
+    {
+      "id": 39,
+      "name": "CLA 122",
+      "description": "",
+      "imagePath": "/Images/122/1416159.jpg",
+      "gallery": [
+        "/Images/122/1416159.jpg",
+        "/Images/122/1416552.jpg",
+        "/Images/122/3.jpg"
+      ],
+      "category": "Family Snow Valley Series",
+      "rate": 7000,
+      "offSeasonRate": 6500,
+      "balcony": "Yes",
+      "ac": "No",
+      "amenities": ["4 Sharing", "2 Queen-size bed", " Balcony", "Non AC"]
+    },
+    {
+      "id": 40,
+      "name": "CLA 7001",
+      "description": "",
+      "imagePath": "/Images/classic 7001/567657334.jpg",
+      "gallery": [
+        "/Images/classic 7001/567657334.jpg",
+        "/Images/classic 7001/5676574.jpg",
+        "/Images/classic 7001/56765742.jpg"
+      ],
+      "category": "Family Snow Valley Series",
+      "rate": 7000,
+      "offSeasonRate": 6500,
+      "balcony": "Yes",
+      "ac": "No",
+      "amenities": ["4 Sharing", "2 Queen-size bed", " Balcony", "Non AC"]
+    },
+    {
+      "id": 41,
+      "name": "CLA 7002",
+      "description": "",
+      "imagePath": "/Images/classic 7002/275386245.jpg",
+      "gallery": [
+        "/Images/classic 7002/275386245.jpg",
+        "/Images/classic 7002/27538675.jpg",
+        "/Images/classic 7002/27538653.jpg"
+      ],
+      "category": "Family Snow Valley Series",
+      "rate": 7000,
+      "offSeasonRate": 6500,
+      "balcony": "Yes",
+      "ac": "No",
+      "amenities": ["4 Sharing", "2 Queen-size bed", " Balcony", "Non AC"]
+    },
+    {
+      "id": 42,
+      "name": "CLA 7003",
+      "description": "",
+      "imagePath": "/Images/classic 7003/3783873456.jpg",
+      "gallery": [
+        "/Images/classic 7003/3783873456.jpg",
+        "/Images/classic 7003/378387398.jpg",
+        "/Images/classic 7003/37838737.jpg"
+      ],
+      "category": "Family Snow Valley Series",
+      "rate": 7000,
+      "offSeasonRate": 6500,
+      "balcony": "Yes",
+      "ac": "No",
+      "amenities": ["4 Sharing", "2 Queen-size bed", " Balcony", "Non AC"]
+    },
+    {
+      "id": 43,
+      "name": "CLA 7004",
+      "description": "",
+      "imagePath": "/Images/classic 7004/4574747.jpg",
+      "gallery": [
+        "/Images/classic 7004/4574747.jpg",
+        "/Images/classic 7004/4574767.jpg"
+      ],
+      "category": "Family Snow Valley Series",
+      "rate": 7000,
+      "offSeasonRate": 6500,
+      "balcony": "Yes",
+      "ac": "No",
+      "amenities": ["4 Sharing", "2 Queen-size bed", " Balcony", "Non AC"]
+    },
+    {
+      "id": 44,
+      "name": "CLA 7005",
+      "description": "",
+      "imagePath": "/Images/classic 7005/6468465.jpg",
+      "gallery": [
+        "/Images/classic 7005/6468465.jpg",
+        "/Images/classic 7005/1561135.jpg",
+        "/Images/classic 7005/564262.jpg",
+        "/Images/classic 7005/419841651.jpg"
+      ],
+      "category": "Family Snow Valley Series",
+      "rate": 7000,
+      "offSeasonRate": 6500,
+      "balcony": "Yes",
+      "ac": "No",
+      "amenities": ["4 Sharing", "2 Queen-size bed", " Balcony", "Non AC"]
+    },
+    {
+      "id": 45,
+      "name": "SUPR Q 114",
+      "description": "",
+      "imagePath": "/Images/superior quadra 114/533334514.jpg",
+      "gallery": [
+        "/Images/superior quadra 114/533334514.jpg",
+        "/Images/superior quadra 114/343443634.jpg",
+        "/Images/superior quadra 114/5333345143.jpg",
+        "/Images/superior quadra 114/53333451436.jpg"
+      ],
+      "category": "Family twin bed superior",
+      "rate": 9000,
+      "offSeasonRate": 8500,
+      "balcony": "Yes",
+      "ac": "Yes",
+      "amenities": ["4 Sharing", "Twin bed", "Small  Balcony", "AC"]
+    },
+    {
+      "id": 46,
+      "name": "SUPR Q 115",
+      "description": "",
+      "imagePath": "/Images/superior quadra 115/9585445.jpg",
+      "gallery": [
+        "/Images/superior quadra 115/9585445.jpg",
+        "/Images/superior quadra 115/9585448.jpg",
+        "/Images/superior quadra 115/95854338.jpg"
+      ],
+      "category": "Family twin bed superior",
+      "rate": 9000,
+      "offSeasonRate": 8500,
+      "balcony": "Yes",
+      "ac": "Yes",
+      "amenities": ["4 Sharing", "Twin bed", "Small  Balcony", "AC"]
+    },
+    {
+      "id": 47,
+      "name": "SUPR 1004",
+      "description": "",
+      "imagePath": "/Images/superior 1004/53783872.jpg",
+      "gallery": [
+        "/Images/superior 1004/53783872.jpg",
+        "/Images/superior 1004/4564576653.jpg",
+        "/Images/superior 1004/68418641.jpg",
+        "/Images/superior 1004/818618651.jpg"
+      ],
+      "category": "superior",
+      "rate": 6500,
+      "offSeasonRate": 6000,
+      "balcony": "Yes",
+      "ac": "Yes",
+      "amenities": ["2 Sharing", "Small  Balcony", "AC"]
+    },
+    {
+      "id": 48,
+      "name": "SUPR 1006",
+      "description": "",
+      "imagePath": "/Images/superior 1006/675735426.jpg",
+      "gallery": [
+        "/Images/superior 1006/675735426.jpg",
+        "/Images/superior 1006/675735436.jpg",
+        "/Images/superior 1006/675732646.jpg"
+      ],
+      "category": "superior",
+      "rate": 6500,
+      "offSeasonRate": 6000,
+      "balcony": "Yes",
+      "ac": "Yes",
+      "amenities": ["2 Sharing", "Small  Balcony", "AC"]
+    },
+    {
+      "id": 49,
+      "name": "SUPR 2004",
+      "description": "",
+      "imagePath": "/Images/superior 2004/85686534.jpg",
+      "gallery": [
+        "/Images/superior 2004/8536446.jpg",
+        "/Images/superior 2004/8563454.jpg"
+      ],
+      "category": "superior",
+      "rate": 6500,
+      "offSeasonRate": 6000,
+      "balcony": "Yes",
+      "ac": "Yes",
+      "amenities": ["2 Sharing", "Small  Balcony", "AC"]
+    },
+    {
+      "id": 50,
+      "name": "SUPR 2006",
+      "description": "",
+      "imagePath": "/Images/superior 2006/87566345.jpg",
+      "gallery": [
+        "/Images/superior 2006/87566345.jpg",
+        "/Images/superior 2006/8756686.jpg",
+        "/Images/superior 2006/8756643.jpg"
+      ],
+      "category": "superior",
+      "rate": 6500,
+      "offSeasonRate": 6000,
+      "balcony": "Yes",
+      "ac": "Yes",
+      "amenities": ["2 Sharing", "Small  Balcony", "AC"]
     }
   ]
 }
